@@ -1,0 +1,1 @@
+This repository contains a sample ActionScript 3.0 program that demonstrates an unexpected token error and its solution. The unexpected token error is a common issue in ActionScript 3.0, and this repository helps illustrate the causes and remedies for such errors.
